@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kieran. I'm currenlty working towards my M.S. in Artificial Intelligence. I also enjoy working with low level languages, and have some experience wth web development.
+I'm Kieran. I'm a Comp. Sci. graduate currenlty working towards my M.S. in Artificial Intelligence. I also enjoy working with low level languages, and have some experience wth web development.
 
 [![My Skills](https://skillicons.dev/icons?i=nix,bash,linux,neovim,python,r,mysql,rust,cpp,java,react,html,css,js&perline=7)](https://skillicons.dev)
 <!--
