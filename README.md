@@ -4,9 +4,9 @@ I'm a Comp. Sci. graduate currently working towards my M.S. in Artificial Intell
 
 [![My Skills](https://skillicons.dev/icons?i=nix,linux,neovim,bash,python,anaconda,mysql,rust,cpp,java,react,html,css,js&perline=7)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kogara13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/kogara13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
 <!--
-**Kogara13/kogara13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KOG-13/KOG-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
