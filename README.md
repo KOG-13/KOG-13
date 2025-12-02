@@ -7,9 +7,6 @@ I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, and **Data Sc
 Currently Practicing:
 
 <img title="Bash" height="16em" width="16em" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">&nbsp;**Bash**
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
           
 
 
