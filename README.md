@@ -9,6 +9,10 @@ Currently Practicing:
 <img title="Bash" height="16em" width="16em" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">&nbsp;**Bash**
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+          
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
 <!--
