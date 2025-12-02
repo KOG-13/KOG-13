@@ -1,8 +1,14 @@
-## Hi there 👋
-
-I'm a Comp. Sci. graduate with an M.S. in Artificial Intelligence. I also enjoy working with languages such as Rust and C++, and have experience in both web and web app development.
+## Hi, I'm Kieran 👋
 
 [![My Skills](https://skillicons.dev/icons?i=arch,nix,bash,python,pytorch,mysql,docker,c,rust,vim&perline=5)](https://skillicons.dev)
+
+I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, and **Data Science**.
+
+Currently Practicing:
+
+<img title="Bash" height="16em" width="16em" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">&nbsp;**Bash**
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
 <!--
