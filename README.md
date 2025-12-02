@@ -2,7 +2,7 @@
 
 I'm a Comp. Sci. graduate with an M.S. in Artificial Intelligence. I also enjoy working with languages such as Rust and C++, and have experience in both web and web app development.
 
-[![My Skills](https://skillicons.dev/icons?i=arch,nix, bash,python,pytorch,mysql,docker,c,rust,sass,js&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,nix, bash,python,pytorch,mysql,docker,c,rust,sass&perline=7)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
 <!--
