@@ -1,12 +1,16 @@
 ## Hi, I'm Kieran 👋
 
-[![My Skills](https://skillicons.dev/icons?i=arch,nix,bash,python,pytorch,mysql,docker,c,rust,vim&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,nix,bash,python,pytorch,mysql,docker,c,ts,sass&perline=5)](https://skillicons.dev)
 
 I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, and **Data Science**.
 
-Currently Practicing:
+### Currently Practicing:
 
-<img title="Bash" height="16em" width="16em" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg">&nbsp;**Bash**
+<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> **Bash**
+&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" /> **Numpy**
+&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> **Pytorch**
+&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> **Docker**
+          
           
 
 
