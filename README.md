@@ -15,6 +15,4 @@ I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, **Data Scienc
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOG-13)](https://github.com/KOG-13/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats) -->
