@@ -13,6 +13,8 @@ I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, **Data Scienc
 &emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> **SQL**
           
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kog-13&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/KOG-13/github-readme-stats)
 <!--
 **KOG-13/KOG-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
