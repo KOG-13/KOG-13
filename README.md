@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,nix,bash,python,pytorch,mysql,docker,c,ts,sass&perline=5)](https://skillicons.dev)
 
-I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, and **Data Science**, and **Machine Learning**. I've also spent a lot of time working on a reproducable system in **NixOS**, but reconsidering other distros as my daily driver. Hoping to dip my toes more into **Webdev** in the near future.
+I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, **Data Science**, and **Machine Learning**. I've also spent a lot of time working on a reproducable system in **NixOS**, but reconsidering other distros as my daily driver. Hoping to dip my toes more into **Webdev** in the near future.
 
 ## 🖥️ Currently Practicing:
 
