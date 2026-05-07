@@ -1,17 +1,15 @@
 ## Hi, I'm Kieran 👋
 
-[![My Skills](https://skillicons.dev/icons?i=arch,nix,bash,python,pytorch,mysql,docker,c,ts,sass&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,c,python,sass,js,bash,pytorch,mysql,docker,nix&perline=5)](https://skillicons.dev)
 
-I'm a Comp. Sci. graduate interested in **Linux**, **Networking**, **Data Science**, and **Machine Learning**. I've also spent a lot of time working on a reproducable system in **NixOS**, but reconsidering other distros as my daily driver. Hoping to dip my toes more into **Webdev** in the near future.
+I'm a Comp. Sci. graduate interested in **Linux**, **Low-Level Languages**, **Data Science**, and **Machine Learning**. I've also spent a lot of time working on a reproducable system in **NixOS**, but currently run Fedora and Arch across multiple devices as my daily drivers. Occasionally dip my toes into **WebDev**.
 
 ## 🖥️ Currently Practicing:
 
-
-<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" /> **Bash**
-&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" /> **Numpy**
-&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /> **Pytorch**
+<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> **C**
+&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> **Python**
 &emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> **SQL**
-          
+&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> **Javascript**
 
 
 
