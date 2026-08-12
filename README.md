@@ -1,15 +1,19 @@
 ## Hi, I'm Kieran 👋
 
-[![My Skills](https://skillicons.dev/icons?i=arch,c,python,sass,js,bash,pytorch,mysql,docker,nix&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,mysql,python,pytorch,docker,c,sass,js,bash,nix&perline=5)](https://skillicons.dev)
 
-I'm a Comp. Sci. graduate interested in **Linux**, **Low-Level Languages**, **Data Science**, and **Machine Learning**. I've also spent a lot of time working on a reproducable system in **NixOS**, but currently run Fedora and Arch across multiple devices as my daily drivers. Occasionally dip my toes into **WebDev**.
+I'm a Comp. Sci. graduate interested in **Linux**, **Data Science**, and **Machine Learning**, **Low-Level Languages**, . I've also spent a lot of time working on a reproducable system in **NixOS**, but currently run Fedora and Arch across multiple devices as my daily drivers. I occasionally dip my toes into **WebDev**.
 
 ## 🖥️ Currently Practicing:
 
+<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> **SQL**
+&emsp;|&emsp; 
+<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> **Python**
+&emsp;|&emsp; 
+<img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> **Javascript**
+&emsp;|&emsp; 
 <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> **C**
-&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> **Python**
-&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> **SQL**
-&emsp;|&emsp; <img height="24em" width="24em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> **Javascript**
+
 
 
 
