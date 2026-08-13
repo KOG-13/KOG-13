@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arch,mysql,python,pytorch,docker,c,sass,js,bash,nix&perline=5)](https://skillicons.dev)
 
-I'm a Comp. Sci. graduate interested in **Linux**, **Data Science**, and **Machine Learning**, **Low-Level Languages**, . I've also spent a lot of time working on a reproducable system in **NixOS**, but currently run Fedora and Arch across multiple devices as my daily drivers. I occasionally dip my toes into **WebDev**.
+I'm a Comp. Sci. graduate interested in **Linux**, **Data Science**, **Machine Learning**,and **Low-Level Languages**, . I've also spent a lot of time working on a reproducable system in **NixOS**, but currently run Fedora and Arch across multiple devices as my daily drivers. I occasionally dip my toes into **WebDev**.
 
 ## 🖥️ Currently Practicing:
 
